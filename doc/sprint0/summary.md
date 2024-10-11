@@ -7,7 +7,7 @@
 - **Teams of Friends and Family**: Groups looking for a fun, interactive activity where they can solve puzzles together and compete for the fastest completion times.
 - **Classrooms**: Students collaborating to solve puzzles in a competitive yet educational environment, fostering teamwork and critical thinking.
 - **Casual Gamers**: Individuals or teams who enjoy solving puzzles and competing for leaderboard rankings without needing prior experience or coding knowledge.
-- **Competitive Puzzle Enthusiasts**: Players who thrive on challenging puzzles and aim to improve their times to top the leaderboards.
+- **Competitive Players**: Experienced players who thrive on challenging puzzles and aim to improve their times to top the leaderboards.
 
 ## Key Use Cases
 - **Interactive Gameplay**: Players click on items in the room to interact with or read them for clues, promoting exploration and problem-solving within the virtual environment.
