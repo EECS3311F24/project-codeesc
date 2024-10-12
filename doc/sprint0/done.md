@@ -1,7 +1,7 @@
 # **Definition of Done for CodeESC**
 
 
-## The following criteria define when a user story is considered “done” for the CodeESC project:
+## The following criteria define when a user story is considered “done” for the CodeESC project
 
 
 
