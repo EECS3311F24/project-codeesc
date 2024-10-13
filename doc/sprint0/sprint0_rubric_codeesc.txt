@@ -220,7 +220,7 @@
    
 ---
 ## Total Mark  
-Sprint 0 Total Mark : 85__ / 48 = 93.7 %
+Sprint 0 Total Mark : 45__ / 48 = 93.7 %
 
 
 	
