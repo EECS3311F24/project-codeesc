@@ -9,22 +9,21 @@
 
 ## Unfinished Tasks Grouped into User Stories
 
-### User Story: Engaging Gameplay
+### User Story: Gameplay
 **As a player, I want to experience engaging gameplay, so that I can enjoy the game.**  
 **Unfinished Tasks:**
-- Implement core gameplay mechanics.
-- Refine player input handling.
+- Implement gameplay mechanics.
 
 ### User Story: Progress Through Levels
 **As a player, I want to progress through multiple levels, so that I can challenge myself.**  
 **Unfinished Tasks:**
-- Design Level 2 and Level 3 content.
+- Design differnt level content.
 - Integrate level transition logic.
 
 ### User Story: View Leaderboard
 **As a player, I want to see my score on a leaderboard, so that I can compare my performance.**  
 **Unfinished Tasks:**
-- Create a persistent leaderboard system.
+- Create a leaderboard system.
 - Implement UI for displaying scores.
 
 ### User Story: Adjust Volume Settings
