@@ -2,7 +2,7 @@
 
 ## Participants
 - Badra Elmi
-- -Ilya Orin
+- Ilya Orin
 - Max Toong
 - Rizan Bhanwadia
 - Saina Shishehgar
