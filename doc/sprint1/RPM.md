@@ -5,16 +5,16 @@ Time: 11:00 am |
 Location: In-person |
 
 
-### Participants:
+### Participants
 
 Max Toong |
 Rizan Bhanwadia |
-Badra Elmi|
+Badra Elmi |
 Ilya Orin |
 Saina Shishegar
 
 
-### Release Goals:
+### Release Goals
 
 * Complete and integrate the login page and main menu page into the CodeESC application.
 
@@ -27,7 +27,7 @@ Saina Shishegar
 * Conduct comprehensive testing to ensure gameplay is smooth and free of bugs before release.
 
 
-### Scope of the Project:
+### Scope of the Project
 ### Key Features:
 * Login Page: Secure authentication for users to access their accounts.
 
@@ -42,7 +42,7 @@ Saina Shishegar
 * Progress saving to allow players to continue from where they left off.
 
 
-### User Stories:
+### User Stories
 ### User Stories for Players
 * Download Application: Users want to download the CodeEsc.jar file for installation.
 
@@ -85,7 +85,7 @@ Saina Shishegar
 * Monitor System Health: Administrators want to monitor application performance metrics.
 
 
-### Meeting Summary:
+### Meeting Summary
 * Reviewed the integration of the login page and main menu page into the application.
 
 * Discussed the next steps for finalizing game levels and the leaderboard functionality.
@@ -95,7 +95,7 @@ Saina Shishegar
 * Emphasized the importance of gathering feedback from users on the login and main menu experience.
 
 
-### Next Steps:
+### Next Steps
 * Ilya Orin: Complete the login page functionality by Nov 3rd.
 
 * Badra Elmi: Complete the main menu page features by Nov 3rd.
