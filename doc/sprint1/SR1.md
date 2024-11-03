@@ -2,6 +2,10 @@
 
 ## Participants
 - Badra Elmi
+- -Ilya Orin
+- Max Toong
+- Rizan Bhanwadia
+- Saina Shishehgar
 
 ## Unfinished Tasks Grouped into User Stories
 
