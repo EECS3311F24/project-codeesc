@@ -122,3 +122,36 @@
 
 
 * **As a** player, **I want to** receive regular updates with new puzzles and features, **so that** I can continue to enjoy new challenges and enhance my gameplay experience.
+
+* ### User Story: Gameplay
+**As a player, I want to experience engaging gameplay, so that I can enjoy the game.**  
+**Unfinished Tasks:**
+- Implement gameplay mechanics.
+
+### User Story: Progress Through Levels
+**As a player, I want to progress through multiple levels, so that I can challenge myself.**  
+**Unfinished Tasks:**
+- Design differnt level content.
+- Integrate level transition logic.
+
+### User Story: View Leaderboard
+**As a player, I want to see my score on a leaderboard, so that I can compare my performance.**  
+**Unfinished Tasks:**
+- Create a leaderboard system.
+- Implement UI for displaying scores.
+
+### User Story: Adjust Volume Settings
+**As a player, I want to adjust volume settings, so that I can customize my audio experience.**  
+**Unfinished Tasks:**
+- Develop volume control settings interface.
+- Implement functionality to save user preferences.
+
+### User Story: Timer Feature
+**As a player, I want to have a timer during gameplay, so that I can track how long it takes me to complete puzzles.**  
+**Unfinished Tasks:**
+- Integrate a timer system into gameplay.
+
+### User Story: Choose Difficulty
+**As a player, I want to select the difficulty level before starting a game, so that I can tailor the challenge to my skill level.**  
+**Unfinished Tasks:**
+- Implement difficulty selection options in the menu.
