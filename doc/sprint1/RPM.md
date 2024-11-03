@@ -96,14 +96,15 @@ Saina Shishegar
 
 
 ### Next Steps
-* Ilya Orin: Complete the login page functionality by Nov 3rd.
+Deadline: Nov 2nd, 2024
+* Ilya Orin: Complete the login page functionality.
 
-* Badra Elmi: Complete the main menu page features by Nov 3rd.
+* Badra Elmi: Complete the main menu page features.
 
-* Rizan Bhanwadia: Finalize game level designs by Nov 3rd.
+* Rizan Bhanwadia: Finalize game level designs.
 
-* Max Toong: Begin testing phases for all new features by Nov 3rd.
+* Max Toong: Begin testing phases for all new features.
 
-* Ilya Orin and Badra Elmi : Prepare documentation for user support and troubleshooting by Nov 3rd.
+* Ilya Orin and Badra Elmi : Prepare documentation for user support and troubleshooting.
 
-* Saina Shishegar: Conduct a user feedback session to gather insights on the login and main menu experience by Nov 3rd.
+* Saina Shishegar: Conduct a user feedback session to gather insights on the login and main menu experience.
