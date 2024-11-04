@@ -24,9 +24,11 @@ Step 2: Make sure you have internet access to run CodeEsc, as it requires connec
 
 Step 1: Once you have the above prerequisites completed, download any Java IDE of your choosing.
 
-Step 2: Import the CodeEsc folder above as an existing project into your chosen IDE.
+Step 2: Download the CodeEsc folder that is shown above in it's entirety, do not make any changes to it.
 
-Step 3. Run the project from your IDE by pressing the "Run Main" button! It's that simple.
+Step 3: Import the CodeEsc folder you downloaded in the last step as an existing project into your Java IDE.
+
+Step 4. Run the project from your IDE by pressing the "Run Main" button. It's that simple!
 
 
 ## Contribution:
