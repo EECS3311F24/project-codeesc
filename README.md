@@ -22,17 +22,11 @@ Step 2: Make sure you have internet access to run CodeEsc, as it requires connec
 
 ### Steps:
 
-Step 1: Once you have the above prerequisites completed, download the CodeEsc.jar file from the files above.
+Step 1: Once you have the above prerequisites completed, download any Java IDE of your choosing.
 
-Step 2: Once you have the CodeEsc.jar file downloaded, open a command prompt or terminal.
+Step 2: Import the CodeEsc folder above as an existing project into your chosen IDE.
 
-Step 3: Navigate to the directory where you have the CodeEsc.jar file downloaded in.
-
-Step 4: Run the following command below to launch CodeEsc:
-
->Java -jar CodeEsc.jar
-
-Step 5: *It’s that easy*, enjoy our puzzles!
+Step 3. Run the project from your IDE by pressing the "Run Main" button! It's that simple.
 
 
 ## Contribution:
