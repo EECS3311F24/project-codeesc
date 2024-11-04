@@ -4,3 +4,7 @@
 | Ilya Orin       | Section A | 218873927  | ilyaorin@my.yorku.ca | Email               | tyian            |
 | Rizan Bhanwadia | Section A | 219536432  | rizan786@my.yorku.ca | 4372681038          | BM10             |
 | Max Toong       | Section A | 217468067  | max9298@my.yorku.ca  | Email               | Xeros            |
+
+
+DISCORD INVITE LINK FOR T.A AND PROFESSOR:
+https://discord.gg/DJmn5DQmFQ
