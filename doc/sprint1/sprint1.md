@@ -21,11 +21,17 @@ This sprint will focus on the development, integration, and initial testing of t
 - **Description**: As a user, I want to log in to the application so that I can access to the game
 - **Tasks**:
   - Create a login page functionality, ensuring secure user authentication.
+- **Acceptance Criteria**:
+  - Form rejects invalid inputs.
+  - Users can log in using their credentials.
+  
 
 ### User Story: Main Menu Page
 - **Description**: As a user, I want to access the main menu so that I can start the game or change the settings
 - **Tasks**:
   - Create a main menu design and integrate interactive elements.
+- **Acceptance Criteria**:
+  - Main menu is accessible
 
 ### User Story: Test the functionalities of main menu and login page
 - **Description**: As a tester, I want to conduct thorough testing on the main menu and login page to ensure they function correctly and provide a seamless user experience.
