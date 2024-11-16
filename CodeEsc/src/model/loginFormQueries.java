@@ -43,7 +43,7 @@ public class loginFormQueries {
 	 * system with the given user-name and password parameters.
 	 * 
 	 * @param con        the connection to be used for the query against the database
-	 * @param username   the user-name used for the creation of the account
+	 * @param user       the user-name used for the creation of the account
 	 * @param pass       the password used for the creation of the account
 	 */
     public static void insertAcc(Connection con, String user, String pass) {
@@ -66,7 +66,7 @@ public class loginFormQueries {
    	 * 
    	 * @param con        the connection to be used for the query against the database
    	 * @param username   the user-name used for the account sign-in
-   	 * @param pass       the password used for the account sign-in
+   	 * @param password   the password used for the account sign-in
    	 * @return true if the user-name and password match an account in the database and false otherwise
    	 */
     public static boolean signInOrNot(Connection con, String username, String password) {

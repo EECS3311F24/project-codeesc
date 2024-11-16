@@ -33,7 +33,7 @@ public class Account {
         this.hashedPass = hashedPass;
         this.connection = con;
         this.form = form;
-        this.menu = new CodeEscMenu();
+        this.menu = new CodeEscMenu(this);
         initializeProgram();
     }
 
@@ -75,6 +75,8 @@ public class Account {
         this.username = null;
         this.hashedPass = null;
         this.form = null;
+        this.menu.setVisible(false);
+        this.menu = null;
         new LoginForm(connection);
         this.connection = null;
     }

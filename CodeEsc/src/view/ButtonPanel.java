@@ -1,4 +1,6 @@
 package view;
+import controller.handleMenuInterface;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -8,12 +10,13 @@ import java.awt.*;
  * play, settings, and leaderboard options.
  */
 public class ButtonPanel extends JPanel {
-
+	private CodeEscMenu menu;
+	private CodeEscLevels menuFrame;
 	/**
 	 * Constructs a ButtonPanel and initializes the layout and buttons. The buttons
 	 * are arranged vertically and are styled with a custom font.
 	 */
-	public ButtonPanel() {
+	public ButtonPanel(CodeEscMenu menu) {
 		// Set the layout manager to arrange components vertically
 		setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
 		setOpaque(false);
@@ -26,6 +29,15 @@ public class ButtonPanel extends JPanel {
 		JButton playButton = createButton("Play", buttonFont);
 		JButton settingsButton = createButton("Settings", buttonFont);
 		JButton leaderboardButton = createButton("Leaderboard", buttonFont);
+
+		// Adding action listener for playButton to open Level menu
+		playButton.addActionListener(e -> {
+			handleMenuInterface.switchToPlay(menu, menu.switchPlayFlag());
+		});
+
+		// Adding action listener for settingsButton and leaderboardButton to show coming soon dialogs (Coming Sprint 3)
+		settingsButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Settings button, coming as a feature in Sprint 3!"));
+		leaderboardButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Leaderboard button, coming as a feature in Sprint 3!"));
 
 		// Adding buttons to the button panel with vertical glue for spacing
 		add(Box.createVerticalGlue());
@@ -52,9 +64,6 @@ public class ButtonPanel extends JPanel {
 		button.setFocusPainted(false);
 		button.setFont(font);
 		button.setPreferredSize(new Dimension(150, 50));
-
-		// Add an action listener to handle button clicks
-		button.addActionListener(e -> System.out.println(text + " button clicked!"));
 
 		return button; // Return the configured button
 	}

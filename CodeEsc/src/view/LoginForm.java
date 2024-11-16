@@ -69,7 +69,7 @@ public class LoginForm {
 
     /**
      * This constructor sets up a new LoginForm by first constructing a background frame and grabbing
-     * an SQL DB connection from it's parameters, and then calling various methods of the class to construct
+     * an SQL DB connection from its parameters, and then calling various methods of the class to construct
      * the different needed UI components for the form.
      * 
      * @param sqlCon   the connection to the SQL database that the login form uses

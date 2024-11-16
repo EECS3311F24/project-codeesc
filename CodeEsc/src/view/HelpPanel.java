@@ -21,7 +21,7 @@ public class HelpPanel extends JPanel {
 		// Creating Help button
 		JButton helpButton = createButton("Help", new Font("Bauhaus 93", Font.PLAIN, 24));
 		// Adding action listener to the help button
-		helpButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Help information here."));
+		helpButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Press 'Play' to play CodeEsc! It's a 2D Escape Room game with a speedrunning aspect. Have fun!"));
 
 		// Adding the help button to the panel
 		add(helpButton); // Adding the help button to the panel
