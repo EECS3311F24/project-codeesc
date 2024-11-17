@@ -155,3 +155,16 @@
 **As a player, I want to select the difficulty level before starting a game, so that I can tailor the challenge to my skill level.**  
 **Unfinished Tasks:**
 - Implement difficulty selection options in the menu.
+
+### **User Story: View Leaderboard**  
+*As a player, I want to see my score on a leaderboard, so that I can compare my performance.*  
+- Implement functionality for sorting scores dynamically (e.g., ascending or descending).  
+
+### **User Story: Adjust Volume Settings**  
+*As a player, I want to adjust volume settings, so that I can customize my audio experience.*  
+- Test compatibility of volume settings across different devices.  
+- Integrate a mute toggle for quick sound adjustments.  
+
+### **User Story: Progress Through Levels**  
+*As a player, I want to progress through multiple levels, so that I can challenge myself.*  
+- Ensure seamless saving and loading of level progress.  
