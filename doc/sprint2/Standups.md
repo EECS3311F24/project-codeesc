@@ -114,11 +114,13 @@ None currently.
 - **What did you work on since the last standup?**
 
 -Initiated the preparation of sprint2.md, outlining key deliverables and goals for the sprint.
+
 -Consolidated standup notes from team members and created a preliminary structure for the sprint documentation.
 
 - **What do you commit to next?**
 
 -Finalizing sprint2.md, ensuring it reflects updated goals and tasks for Sprint #2.
+
 -Summarizing sprint backlog updates to align team progress with sprint objectives.
 
 - **When do you think you'll be done?**
@@ -133,6 +135,7 @@ Awaiting updates from team members to finalize documentation and ensure alignmen
 - **What did you work on since the last standup?**
 
 -Completed sprint2.md with detailed descriptions of tasks and updated timelines.
+
 -Coordinated with team members to address feedback gaps and ensure all perspectives were incorporated.
 
 - **What do you commit to next?**
@@ -151,7 +154,9 @@ None currently, as all dependencies have been resolved.
 - **What did you work on since the last standup?**
 
 -Finalized all sprint documentation, ensuring accuracy and alignment with sprint goals.
+
 -Successfully planned and conducted a user feedback session to validate sprint outcomes and gather improvement suggestions.
+
 -Consolidated user feedback insights into actionable items for the retrospective and next sprint planning.
 
 - **What do you commit to next?**
