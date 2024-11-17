@@ -105,4 +105,63 @@ None currently.
 - Spint 2 retrospective.
 
 **Do you have any blockers?**  
-- None currently.  
+- None currently.
+
+
+## Saina Shishegar
+
+## Nov 5th 2024  - Sprint #2 Standup #1
+- **What did you work on since the last standup?**
+
+-Initiated the preparation of sprint2.md, outlining key deliverables and goals for the sprint.
+-Consolidated standup notes from team members and created a preliminary structure for the sprint documentation.
+
+- **What do you commit to next?**
+
+-Finalizing sprint2.md, ensuring it reflects updated goals and tasks for Sprint #2.
+-Summarizing sprint backlog updates to align team progress with sprint objectives.
+
+- **When do you think you'll be done?**
+
+Core documentation will be completed within two days, pending team feedback.
+
+- **Do you have any blockers?**
+
+Awaiting updates from team members to finalize documentation and ensure alignment.
+
+## Nov 10th 2024 - Sprint #2 Standup #2
+- **What did you work on since the last standup?**
+
+-Completed sprint2.md with detailed descriptions of tasks and updated timelines.
+-Coordinated with team members to address feedback gaps and ensure all perspectives were incorporated.
+
+- **What do you commit to next?**
+
+-Organizing final sprint documentation, including retrospective insights and action items for process enhancement.
+
+- **When do you think you'll be done?**
+
+Finalized documentation and outline will be ready by tomorrow, ahead of the submission deadline.
+
+- **Do you have any blockers?**
+
+None currently, as all dependencies have been resolved.
+
+### Nov 17th 2024  - Sprint #2 Standup #3
+- **What did you work on since the last standup?**
+
+-Finalized all sprint documentation, ensuring accuracy and alignment with sprint goals.
+-Successfully planned and conducted a user feedback session to validate sprint outcomes and gather improvement suggestions.
+-Consolidated user feedback insights into actionable items for the retrospective and next sprint planning.
+
+- **What do you commit to next?**
+
+Preparing the retrospective summary for the sprint demo, highlighting key achievements, challenges, and areas for improvement.
+
+- **When do you think you'll be done?**
+
+All deliverables will be completed and ready for submisson by the end of the sprint.
+
+- **Do you have any blockers?**
+
+None currently.
