@@ -1,8 +1,8 @@
 # Sprint 2 Planning Meeting
 
 ## Date and Time
-- **Date**: Oct 25th 2024
-- **Time**: 11:00 a.m.
+- **Date**: Nov 4th 2024
+- **Time**: 2:00 p.m.
 
 ## Participants
 - Max Toong
