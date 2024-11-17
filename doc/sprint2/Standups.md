@@ -129,7 +129,7 @@ Core documentation will be completed within two days, pending team feedback.
 
 - **Do you have any blockers?**
 
-Awaiting updates from team members to finalize documentation and ensure alignment.
+Awaiting updates from team members to finalize documentation.
 
 ## Nov 10th 2024 - Sprint #2 Standup #2
 - **What did you work on since the last standup?**
@@ -144,7 +144,7 @@ Awaiting updates from team members to finalize documentation and ensure alignmen
 
 - **When do you think you'll be done?**
 
-Finalized documentation and outline will be ready by tomorrow, ahead of the submission deadline.
+Finalized documentation and outline will be ready by tomorrow.
 
 - **Do you have any blockers?**
 
@@ -155,7 +155,7 @@ None currently, as all dependencies have been resolved.
 
 -Finalized all sprint documentation, ensuring accuracy and alignment with sprint goals.
 
--Successfully planned and conducted a user feedback session to validate sprint outcomes and gather improvement suggestions.
+-Successfully planned and conducted a user feedback session.
 
 -Consolidated user feedback insights into actionable items for the retrospective and next sprint planning.
 
