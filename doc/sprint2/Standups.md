@@ -170,3 +170,65 @@ All deliverables will be completed and ready for submisson by the end of the spr
 - **Do you have any blockers?**
 
 None currently.
+
+## Max Toong
+
+## Nov 5th 2024  - Sprint #2 Standup #1
+- **What did you work on since the last standup?**
+
+Began refining CRC cards for gameplay mechanics and level transitions.
+
+- **What do you commit to next?**
+
+Finalizing CRC cards and reviewing them with Rizan.
+
+- **When do you think you'll be done?**
+
+CRC cards will be ready by the next standup.
+
+- **Do you have any blockers?**
+
+None currently.
+
+## Nov 10th 2024 - Sprint #2 Standup #2
+- **What did you work on since the last standup?**
+
+Finalized CRC cards and contributed to Trello updates.
+
+- **What do you commit to next?**
+
+-Collaborating on sprint demo preparations and ensuring Trello tracking is accurate.
+
+-Complete the schedule.pdf, integrating the network diagram and task dependencies.
+
+-Generated the burndown.pdf and ensured it accurately reflects sprint progress.
+
+- **When do you think you'll be done?**
+
+By the next standup meeting.
+
+- **Do you have any blockers?**
+
+None currently
+
+### Nov 17th 2024  - Sprint #2 Standup #3
+- **What did you work on since the last standup?**
+
+-Finalized schedule.pdf with detailed task analysis and critical path identification.
+
+-Finalized burndown.pdf with burndown chart and comparing with previous sprint velocity
+
+-Reviewed final CRC card alignment and assisted with demo preparation.
+
+- **What do you commit to next?**
+
+Finalizing my contributions for the sprint demo and ensuring all tasks on Trello are up to date.
+
+- **When do you think you'll be done?**
+
+All deliverables will be completed and ready for submisson by the end of the sprint.
+
+- **Do you have any blockers?**
+
+None currently.
+
