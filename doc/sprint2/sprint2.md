@@ -14,7 +14,7 @@
 ## Sprint Goal
 The primary objective for Sprint 2 is to enhance gameplay mechanics, integrate the timer feature, and implement level transitions. These updates aim to improve the game's core functionality and user experience, ensuring readiness for testing and the sprint demo.
 
-## User Stories for Sprint 1
+## User Stories for Sprint 2
 This sprint will focus on the development, integration, and initial testing of the following key user stories derived from the Release Planning Meeting:
 
 ### User Story: 1. Gameplay
