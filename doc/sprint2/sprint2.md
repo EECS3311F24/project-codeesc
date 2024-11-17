@@ -50,7 +50,7 @@ Level transitions include a clear indication of progression (e.g., a completion 
 
 
 ## Team Capacity
-For Sprint 1, 1 story point is equivalent to 4 hours of work contributed to a task, it should not exceed 6 points, longer than 6 points should be broken down into smaller tasks. Therefore, the team's total available capacity amounts to 11 points which is equivalent 44 hours of work being done in this sprint. This is based on individual member availability as follows:
+For Sprint 2, 1 story point is equivalent to 4 hours of work contributed to a task, it should not exceed 6 points, longer than 6 points should be broken down into smaller tasks. Therefore, the team's total available capacity amounts to 11 points which is equivalent 44 hours of work being done in this sprint. This is based on individual member availability as follows:
 
 - **Max Toong**: 2 points(8 hours) 
 - **Rizan Bhanwadia**: 2 points(8 hours) 
