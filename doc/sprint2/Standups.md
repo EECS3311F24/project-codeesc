@@ -53,3 +53,56 @@ Demo contributions will be finalized by the end of the sprint.
 
 None currently.
 
+# Badra Elmi - Sprint #2 Standups
+
+## Nov 4th, 2024 - Standup #1
+**What did you work on since the last standup?**  
+- Started drafting the software architecture diagram.  
+- Updated dependencies in the system design.  
+
+**What do you commit to next?**  
+- Finalizing the software architecture diagram.  
+- Collaborating with Max and Rizan on CRC cards.  
+
+**When do you think you'll be done?**  
+- The architecture diagram will be finalized in two days.  
+
+**Do you have any blockers?**  
+- Waiting for feedback on the initial architecture draft.  
+
+---
+
+## Nov 8th, 2024 - Standup #2
+**What did you work on since the last standup?**  
+- Finalized the architecture diagram.  
+- Reviewed initial CRC card drafts.  
+
+**What do you commit to next?**  
+- Assisting with Trello updates and ensuring tasks are correctly tracked.
+- Completeing systsem decomposition for system design document.
+
+**When do you think you'll be done?**  
+- Trello updates will be completed by tomorrow.
+- System decomposition will be completed in the next 3 days.  
+
+**Do you have any blockers?**  
+- Diagram was very confusing and tedious to make. This new sprint added a lot of classes and class relationships.
+
+---
+
+## Nov 16th, 2024 - Standup #3
+**What did you work on since the last standup?**  
+- Contributed to Trello updates.
+- Completed system decoposition.
+- Assisted with demo preparations by organizing system design deliverables.  
+
+**What do you commit to next?**  
+- Ensuring all design artifacts are finalized and ready for submission.
+- Type out sprint 2 retrospective meeting. 
+
+**When do you think you'll be done?**  
+- Documentation will be finalized by the end of the sprint.
+- Spint 2 retrospective.
+
+**Do you have any blockers?**  
+- None currently.  
