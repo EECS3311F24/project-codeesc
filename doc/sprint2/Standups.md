@@ -55,7 +55,7 @@ None currently.
 
 # Badra Elmi - Sprint #2 Standups
 
-## Nov 4th, 2024 - Standup #1
+## Nov 5th, 2024 - Standup #1
 **What did you work on since the last standup?**  
 - Started drafting the software architecture diagram.  
 - Updated dependencies in the system design.  
@@ -72,7 +72,7 @@ None currently.
 
 ---
 
-## Nov 8th, 2024 - Standup #2
+## Nov 10th, 2024 - Standup #2
 **What did you work on since the last standup?**  
 - Finalized the architecture diagram.  
 - Reviewed initial CRC card drafts.  
@@ -90,7 +90,7 @@ None currently.
 
 ---
 
-## Nov 16th, 2024 - Standup #3
+## Nov 17th, 2024 - Standup #3
 **What did you work on since the last standup?**  
 - Contributed to Trello updates.
 - Completed system decoposition.
