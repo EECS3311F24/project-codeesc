@@ -232,3 +232,60 @@ All deliverables will be completed and ready for submisson by the end of the spr
 
 None currently.
 
+## Ilya Orin
+
+## Nov 5th 2024  - Sprint #2 Standup #1
+- **What did you work on since the last standup?**
+
+Began planning out how to code the level menu, level one, and best time feature
+
+- **What do you commit to next?**
+
+Finishing up the planning to get started on the coding.
+
+- **When do you think you'll be done?**
+
+The planning will be done by the next Standup.
+
+- **Do you have any blockers?**
+
+None currently.
+
+## Nov 10th 2024 - Sprint #2 Standup #2
+- **What did you work on since the last standup?**
+
+Finished planning out the code, and started working on the level menu and level one.
+
+- **What do you commit to next?**
+
+- Finish the level menu
+- Finish level one
+- Implement best time feature
+- Document all the code
+- Record demo with team
+
+- **When do you think you'll be done?**
+
+All the code should be done by the next sprint, and documentation as well.
+
+- **Do you have any blockers?**
+
+None currently
+
+### Nov 17th 2024  - Sprint #2 Standup #3
+- **What did you work on since the last standup?**
+I finished coding all the features and documenting the code. I also recorded the demo
+with my team.
+
+- **What do you commit to next?**
+
+Ensuring everything is fully ready for my part of Sprint 2, although I am finished I am making final touches.
+
+- **When do you think you'll be done?**
+
+All deliverables will be completed and ready for submisson by the end of the sprint.
+
+- **Do you have any blockers?**
+
+None currently.
+
