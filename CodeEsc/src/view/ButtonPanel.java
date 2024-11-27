@@ -30,14 +30,18 @@ public class ButtonPanel extends JPanel {
 		JButton settingsButton = createButton("Settings", buttonFont);
 		JButton leaderboardButton = createButton("Leaderboard", buttonFont);
 
-		// Adding action listener for playButton to open Level menu
+		// Adding action listener for menu buttons to open their specific pages
 		playButton.addActionListener(e -> {
 			handleMenuInterface.switchToPlay(menu, menu.switchPlayFlag());
 		});
 
-		// Adding action listener for settingsButton and leaderboardButton to show coming soon dialogs (Coming Sprint 3)
-		settingsButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Settings button, coming as a feature in Sprint 3!"));
-		leaderboardButton.addActionListener(e -> JOptionPane.showMessageDialog(this, "Leaderboard button, coming as a feature in Sprint 3!"));
+		settingsButton.addActionListener(e -> {
+			handleMenuInterface.switchToSettings(menu, menu.switchSettingsFlag());
+		});
+
+		leaderboardButton.addActionListener(e -> {
+			handleMenuInterface.switchToLeaderboard(menu, menu.switchLeaderboardFlag());
+		});
 
 		// Adding buttons to the button panel with vertical glue for spacing
 		add(Box.createVerticalGlue());

@@ -2,14 +2,16 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+import model.Account;
 import view.CodeEscLevelOne;
+import view.CodeEscLevelTwo;
 import view.CodeEscMenu;
 import view.LoginForm;
 
 /**
  * This class is the Main class and holds the only main method
  * within the CodeEsc project, it is the entry point of the program
- * and is also used to setup the initial database connection for the
+ * and is also used to set up the initial database connection for the
  * project.
  */
 public class Main {

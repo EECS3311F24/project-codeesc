@@ -15,9 +15,14 @@ public class CodeEscMenu extends JFrame {
 	private ButtonPanel buttonPanel;
 	private HelpPanel helpPanel;
 	private CodeEscLevels menuLevel;
+	private CodeEscSettings settingsPanel;
+	private CodeEscLeaderboard leaderboardPanel;
+
 
 	private Account account;
 	private boolean isPlayMenu;
+	private boolean isSettingsFlag;
+	private boolean isLeaderboardFlag;
 
 	/**
 	 * Constructs the CodeEscMenu and initializes the GUI components. This includes
@@ -25,8 +30,10 @@ public class CodeEscMenu extends JFrame {
 	 * background panel, button panel, and help panel.
 	 */
 	public CodeEscMenu(Account account) {
-		//Set play menu flag to false
+		//Set menu page flags to false
 		this.isPlayMenu = false;
+		this.isSettingsFlag = false;
+		this.isLeaderboardFlag = false;
 
 		//Set up user account as an attribute
 		this.account = account;
@@ -35,6 +42,16 @@ public class CodeEscMenu extends JFrame {
 		menuLevel = new CodeEscLevels(this);
 		menuLevel.setVisible(false);
 		add(menuLevel);
+
+		//Set up settings panel
+		settingsPanel = new CodeEscSettings(this);
+		settingsPanel.setVisible(false);
+		add(settingsPanel);
+
+		//Set up leaderboard panel
+		leaderboardPanel = new CodeEscLeaderboard(this);
+		leaderboardPanel.setVisible(false);
+		add(leaderboardPanel);
 
 		// Load the background image from resources
 		ImageIcon tempBackgroundImage = new ImageIcon("menubackground.jpg");
@@ -83,11 +100,45 @@ public class CodeEscMenu extends JFrame {
 
 	/**
 	 *
+	 * @return   the leaderboard panel used within the main menu
+	 */
+	public CodeEscLeaderboard getLeaderboardPanel() {
+		return leaderboardPanel;
+	}
+
+	/**
+	 *
+	 * @return   the settings panel used within the home main menu
+	 */
+	public CodeEscSettings getSettingsPanel() {
+		return settingsPanel;
+	}
+
+	/**
+	 *
 	 * @return   switches the flag that holds whether this menu is at home or at the level menu section
 	 */
 	public boolean switchPlayFlag() {
 		this.isPlayMenu = !isPlayMenu;
 		return isPlayMenu;
+	}
+
+	/**
+	 *
+	 * @return   switches the flag that holds whether this menu is at home or at the settings menu section
+	 */
+	public boolean switchSettingsFlag() {
+		this.isSettingsFlag = !isSettingsFlag;
+		return isSettingsFlag;
+	}
+
+	/**
+	 *
+	 * @return   switches the flag that holds whether this menu is at home or at the leaderboard menu section
+	 */
+	public boolean switchLeaderboardFlag() {
+		this.isLeaderboardFlag = !isLeaderboardFlag;
+		return isLeaderboardFlag;
 	}
 
 	/**

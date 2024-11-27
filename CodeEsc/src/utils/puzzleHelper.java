@@ -2,6 +2,7 @@ package utils;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Random;
 
 /**
  * This class is used to provide helper methods for different puzzles that appear
@@ -27,6 +28,24 @@ public class puzzleHelper {
         StringBuilder sb = new StringBuilder();
         for(char c : charList) {
             sb.append(c);
+        }
+        return sb.toString();
+    }
+
+    /**
+     * This method generates a String of random letters of a random length
+     * between 4 and 33. This is used for a letter sequence length puzzle
+     * within Level Two.
+     *
+     * @return
+     */
+    public static String randomWordGenerator() {
+        Random random = new Random();
+        int length = random.nextInt(30) + 4;
+
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0; i < length; i++) {
+            sb.append((char) (random.nextInt(26) + 'a'));
         }
         return sb.toString();
     }

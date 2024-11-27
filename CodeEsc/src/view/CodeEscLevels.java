@@ -61,14 +61,14 @@ public class CodeEscLevels extends JPanel {
         });
 
         //Creating button to access level 2 (Major feature of Sprint 3)
-        levelTwoBtn = new LevelPanel();
+        levelTwoBtn = new LevelPanel(2, ownerMenu.getAccount(), "levelTwoBackground.png");
         levelTwoBtn.setLocation(560, 320);
         add(levelTwoBtn);
         this.setComponentZOrder(levelTwoBtn, 0);
 
         //Adding action listener for level 2 button to (currently open a dialog to show it's not added yet)
         levelTwoBtn.addActionListener(e -> {
-            JOptionPane.showMessageDialog(this, "This level is going to be a major feature for Sprint 3! Stay tuned.");
+            new CodeEscLevelTwo(ownerMenu);
         });
 
     }
@@ -78,4 +78,10 @@ public class CodeEscLevels extends JPanel {
      * @return   the JButton for accessing level one
      */
     public LevelPanel getLevelOneBtn() { return levelOneBtn; }
+
+    /**
+     *
+     * @return   the JButton for accessing level two
+     */
+    public LevelPanel getLevelTwoBtn() { return levelTwoBtn; }
 }

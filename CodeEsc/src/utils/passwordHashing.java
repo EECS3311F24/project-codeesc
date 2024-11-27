@@ -23,7 +23,7 @@ public class passwordHashing {
     }
     
     /**
-     * This methods compares a normal password and a hashed password and then returns
+     * This method compares a normal password and a hashed password and then returns
      * whether the hashed password matches the normal password.
      * 
      * @param pass     the password to compare against the hashed password

@@ -71,7 +71,7 @@ public class Account {
      * the database connection of this account to allow the user to use the sign-up/login form 
      * again.
      */
-    private void logOut() {
+    public void logOut() {
         this.username = null;
         this.hashedPass = null;
         this.form = null;
