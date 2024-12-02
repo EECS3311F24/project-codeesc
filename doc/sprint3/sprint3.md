@@ -116,9 +116,9 @@ This capacity allows for a focused approach to deliverables while ensuring reali
   - Assist with user feedback integration for the sprint retrospective.
 
 - **Max Toong**:  
-  - Manage Trello task tracking and ensure `schedule.pdf` and `burndown.pdf` are updated.  
+  - Manage Trello task tracking and ensure schedule.pdf and burndown.pdf are updated.  
   - Conduct final reviews of progress against timelines.
 
 - **Saina Shishegar**:  
-  - Document sprint progress in `sprint3.md`, including user stories and team insights.  
+  - Document sprint progress in sprint3.md, including user stories and team insights.  
   - Prepare the sprint retrospective and organize user feedback sessions.
