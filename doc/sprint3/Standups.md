@@ -52,3 +52,52 @@ By the end of the sprint.
 - **Do you have any blockers?**
 
 None currently.
+
+
+# Badra Elmi 
+
+## Nov 20th, 2024 - Sprint #3 Standup #1
+
+**What did you work on since the last standup?**  
+- Began drafting the updated architecture diagram for Sprint 3, incorporating new system components and dependencies.
+
+**What do you commit to next?**  
+- Completing the architecture diagram and starting the system decomposition for the design document.
+
+**When do you think you'll be done?**  
+- The architecture diagram will be finalized within two days.
+
+**Do you have any blockers?**  
+- Awaiting team feedback on the initial draft of the architecture diagram.
+
+---
+
+## Nov 25th, 2024 - Sprint #3 Standup #2
+
+**What did you work on since the last standup?**  
+- Finalized the architecture diagram and progressed on the system decomposition drafts.
+
+**What do you commit to next?**  
+- Ensuring all system design artifacts are fully reviewed and finalized for submission.
+
+**When do you think you'll be done?**  
+- By the next standup.
+
+**Do you have any blockers?**  
+- None at the moment.
+
+---
+
+## Dec 1st, 2024 - Sprint #3 Standup #3
+
+**What did you work on since the last standup?**  
+- Finalized all contributions to the system decomposition and supported demo preparations by organizing system design deliverables.
+
+**What do you commit to next?**  
+- Completing the Sprint 3 retrospective and ensuring Trello updates reflect accurate progress for all tasks.
+
+**When do you think you'll be done?**  
+- By the end of the sprint.
+
+**Do you have any blockers?**  
+- None currently.
