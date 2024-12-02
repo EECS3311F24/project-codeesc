@@ -24,15 +24,13 @@ public class Main {
 	 * @param args
 	 */
     public static void main(String[] args) {
-        String url = "jdbc:mysql://us-cluster-east-01.k8s.cleardb.net:3306/heroku_fdeac7008cbe170?reconnect=true";
-        String username = "b7b93c6c56405e";
-        String password = "9d108301";
+        String url = "jdbc:postgresql://cfls9h51f4i86c.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/deuac2c9jabrva";
+        String username = "u5mompi8u4sa3u";
+        String password = "p83fe42759727b47410e493fbd840b5b4e3013df5c2a5c496572699bf02c0939f";
 
         Connection connection = null;
 
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-
             connection = DriverManager.getConnection(url, username, password);
 
             if (connection != null) {
@@ -43,9 +41,6 @@ public class Main {
             }
         } catch (SQLException e) {
             System.out.println("SQL Exception: " + e.getMessage());
-        } catch (ClassNotFoundException e) {
-            System.out.println("Class Not Found Exception: " + e.getMessage());
         }
-
     }
 }
