@@ -101,3 +101,58 @@ None currently.
 
 **Do you have any blockers?**  
 - None currently.
+
+---
+
+## Ilya Orin
+
+## Nov 20th, 2024  - Sprint #3 Standup #1
+
+- **What did you work on since the last standup?**
+Began planning out how to code level two, settings page, and leaderboard page and it's backend.
+
+- **What do you commit to next?**
+Finishing up the planning to get started on the coding.
+
+- **When do you think you'll be done?**
+The planning will be done by the next Standup.
+
+- **Do you have any blockers?**
+None currently.
+
+---
+
+## Nov 25th, 2024 - Sprint #3 Standup #2
+
+- **What did you work on since the last standup?**
+Finished coding level two and planning out the rest, going to keep working on the settings page and leaderboard UI and backend.
+
+- **What do you commit to next?**
+- Finish the settings page
+- Finish the leaderboard page
+- Implement leaderboard backend code
+- Document all the code
+- Record demo with team
+  
+- **When do you think you'll be done?**
+All the code should be done by the next sprint, and documentation with demo as well.
+
+- **Do you have any blockers?**
+None currently.
+
+---
+
+### Dec 1st, 2024  - Sprint #3 Standup #3
+
+- **What did you work on since the last standup?**
+I finished coding all the features and documenting the code. I also recorded the demo
+with my team.
+
+- **What do you commit to next?**
+Checking up and making sure that everything is ready to be finalized for Sprint 3.
+
+- **When do you think you'll be done?**
+All deliverables will be fully complete by the end of the sprint.
+
+- **Do you have any blockers?**
+None currently.
