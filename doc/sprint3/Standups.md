@@ -156,3 +156,58 @@ All deliverables will be fully complete by the end of the sprint.
 
 - **Do you have any blockers?**
 None currently.
+
+
+## Saina Shishegar
+
+## Nov 20th 2024  - Sprint #3 Standup #1
+- **What did you work on since the last standup?**
+
+Started drafting sprint3.md, outlining key deliverables and objectives for Sprint 3.
+
+- **What do you commit to next?**
+
+Finalizing sprint3.md, incorporating feedback from the team, and aligning it with sprint goals.
+
+- **When do you think you'll be done?**
+
+Within the next two days, pending additional input from the team.
+
+- **Do you have any blockers?**
+
+Awaiting updates from other team members to complete the documentation.
+
+## Nov 25th 2024 - Sprint #3 Standup #2
+- **What did you work on since the last standup?**
+
+Completed sprint3.md, ensuring it captured the latest updates and team contributions.
+
+- **What do you commit to next?**
+
+Reviewing and integrating retrospective insights and assisting with demo preparations.
+
+- **When do you think you'll be done?**
+
+By the next standup.
+
+- **Do you have any blockers?**
+
+None currently.
+
+### Dec 1st 2024  - Sprint #3 Standup #3
+- **What did you work on since the last standup?**
+
+Finalized sprint3.md, collaborated on retrospective documentation, and supported demo execution.
+
+- **What do you commit to next?**
+
+Polishing all documentation for final submission and ensuring it aligns with sprint objectives.
+
+- **When do you think you'll be done?**
+
+By the end of the sprint.
+
+- **Do you have any blockers?**
+
+None at the moment.
+
