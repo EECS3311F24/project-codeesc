@@ -211,3 +211,56 @@ By the end of the sprint.
 
 None at the moment.
 
+## Max Toong
+
+## Nov 20th 2024  - Sprint #3 Standup #1
+- **What did you work on since the last standup?**
+
+Drafted initial versions of schedule.pdf and started updating the burndown chart for Sprint 3 progress tracking.
+
+- **What do you commit to next?**
+
+Finalizing schedule.pdf and updating Trello with the latest task statuses.
+
+- **When do you think you'll be done?**
+
+By the next standup.
+
+- **Do you have any blockers?**
+
+None at the moment.
+
+## Nov 25th 2024 - Sprint #3 Standup #2
+- **What did you work on since the last standup?**
+
+Finalized schedule.pdf and updated Trello to reflect current task completion.
+
+- **What do you commit to next?**
+
+Completing burndown.pdf and ensuring its accuracy in tracking team progress.
+
+- **When do you think you'll be done?**
+
+By the next standup.
+
+- **Do you have any blockers?**
+
+None at the moment.
+
+### Dec 1st 2024  - Sprint #3 Standup #3
+- **What did you work on since the last standup?**
+
+Finalized burndown.pdf and ensured all Trello tasks were properly updated and organized.
+
+- **What do you commit to next?**
+
+Supporting demo preparations and verifying the completion of all tasks.
+
+- **When do you think you'll be done?**
+
+By the end of the sprint.
+
+- **Do you have any blockers?**
+
+None currently.
+
